@@ -1,0 +1,34 @@
+# Model weights and checkpoints
+models/
+outputs/
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Datasets and private research materials
+data/
+reviewed/
+logs/
+*.zip
+*.sha256
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Credentials
+.env
+.env.*
+*.pem
+*.key
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+.ipynb_checkpoints/
