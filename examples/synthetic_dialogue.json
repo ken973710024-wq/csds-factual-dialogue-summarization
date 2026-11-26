@@ -1,0 +1,21 @@
+{
+  "DialogueID": "synthetic-demo-001",
+  "QRole": "用户",
+  "Dialogue": [
+    {
+      "turn": 0,
+      "speaker": "Q",
+      "utterance": "我的配送还没到，可以让配送员联系我吗？"
+    },
+    {
+      "turn": 1,
+      "speaker": "A",
+      "utterance": "已经通知配送员，请他联系您，目前还没有收到回电确认。"
+    },
+    {
+      "turn": 2,
+      "speaker": "Q",
+      "utterance": "好的，我等电话。"
+    }
+  ]
+}

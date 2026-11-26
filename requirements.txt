@@ -1,0 +1,9 @@
+# Dependency list, not a lockfile. Restore exact versions from private backup_info.json.
+# Install the appropriate CUDA-compatible PyTorch build for the machine.
+torch
+transformers
+peft
+accelerate
+bitsandbytes
+numpy
+safetensors
